@@ -10,8 +10,10 @@
     ],
     "duration": 3,
     "prerequisites": [
-        "programming-strings"
     ],
     "related": [
+        "programming-strings",
+        "programming-comments",
+        "html-tags-elements"
     ]
 }
