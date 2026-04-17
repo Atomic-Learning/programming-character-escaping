@@ -14,6 +14,7 @@
     "related": [
         "programming-strings",
         "programming-comments",
-        "html-tags-elements"
+        "html-tags-elements",
+        "html-character-escaping"
     ]
 }
